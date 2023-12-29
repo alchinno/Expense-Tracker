@@ -13,7 +13,7 @@
     <input type="text" id="amount" v-model="amount"
      placeholder="Enter amount..." />
   </div>
-  <button class="btn">Add transaction</button>
+  <button class="btn">Tilføj en transaktion</button>
 </form>
 </template>
 
